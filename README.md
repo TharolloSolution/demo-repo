@@ -1,3 +1,3 @@
 # Demo
 
-solution
+solution!
